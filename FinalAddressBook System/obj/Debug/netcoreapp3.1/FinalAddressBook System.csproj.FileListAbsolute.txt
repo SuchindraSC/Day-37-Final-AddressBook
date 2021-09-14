@@ -1,0 +1,17 @@
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\bin\Debug\netcoreapp3.1\FinalAddressBook System.exe
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\bin\Debug\netcoreapp3.1\FinalAddressBook System.deps.json
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\bin\Debug\netcoreapp3.1\FinalAddressBook System.runtimeconfig.json
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\bin\Debug\netcoreapp3.1\FinalAddressBook System.runtimeconfig.dev.json
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\bin\Debug\netcoreapp3.1\FinalAddressBook System.dll
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\bin\Debug\netcoreapp3.1\FinalAddressBook System.pdb
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\obj\Debug\netcoreapp3.1\FinalAddressBook System.csproj.AssemblyReference.cache
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\obj\Debug\netcoreapp3.1\FinalAddressBook System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\obj\Debug\netcoreapp3.1\FinalAddressBook System.AssemblyInfoInputs.cache
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\obj\Debug\netcoreapp3.1\FinalAddressBook System.AssemblyInfo.cs
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\obj\Debug\netcoreapp3.1\FinalAddressBook System.csproj.CoreCompileInputs.cache
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\obj\Debug\netcoreapp3.1\FinalAddressBook System.csproj.CopyComplete
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\obj\Debug\netcoreapp3.1\FinalAddressBook System.dll
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\obj\Debug\netcoreapp3.1\FinalAddressBook System.pdb
+C:\Users\suchi\Documents\BridgeLbaz Assignments\Day 37 Classwork & Assignments\FinalAddressBook System\FinalAddressBook System\obj\Debug\netcoreapp3.1\FinalAddressBook System.genruntimeconfig.cache
